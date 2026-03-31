@@ -1,4 +1,4 @@
-![img_rede_neural](img/imgRedes.png)
+![img_rede_neural](img/imgRedes_.png)
 
 ## Olá, eu sou Heliel 👋😃
 
