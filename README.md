@@ -1,4 +1,4 @@
-![img_rede_neural](../)
+![img_rede_neural](img/imgRedesNeurais_.png)
 
 ## Olá, eu sou Heliel 👋
 
