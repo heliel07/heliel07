@@ -1,4 +1,10 @@
-## Hi there 👋
+![img_rede_neural](../)
+
+## Olá, eu sou Heliel 👋
+
+Atualmente, sou **Estudante de ADS** no último semestre, sou apaixonado por inovações que a tecnologia nos oferece! Busco a minha primeira oportunidade como **Engenheiro de Dados** para poder entrar no mercado, me desenvolver mais e contribuir com o time em que estiver!
+
+Tenho experiência como estagiário de **Engenheiro de Dados em Nuvem AWS**, na qual, desenvolvi projetos desde a ingestão dos dados até a criação do dashboard final com insights importantes. Tirei a minha primeira certificação **AWS Cloud Practitioner** (CLF-C02) em Novembro de 2025.
 
 <!--
 **heliel07/heliel07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
