@@ -1,6 +1,6 @@
 ![img_rede_neural](img/imgRedes_.png)
 
-## Olá, eu sou Heliel 👋😃
+# Olá, eu sou Heliel 👋😃
 
 Sou apaixonado por inovações que a tecnologia nos oferece! Busco a minha primeira oportunidade como **Engenheiro de Dados** para poder entrar no mercado, me desenvolver mais e contribuir com o time em que estiver!
 
@@ -9,9 +9,7 @@ Sou apaixonado por inovações que a tecnologia nos oferece! Busco a minha prime
 - 📊 Experiência como **Estagiário** em Engenharia de Dados em Nuvem na Compass UOL;
 - 👨🏻‍💻 Certificado na nuvem **[AWS Cloud Practitioner (CLF-C02)](https://www.credly.com/badges/b8d5a2d2-56a9-4b2d-aca4-86319a2d348a/whatsapp)**;
 
-___
-
-### Tecnologias: ###
+## Tecnologias:
 
 <p align="left">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> &nbsp;&nbsp;
@@ -30,12 +28,10 @@ ___
 
 </p>
 
-___
-
-### Meus contatos: ###
+## Meus contatos:
 
 - <img width="17" height="17" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> [Heliel Hislei](https://www.linkedin.com/in/heliel-hislei/)
-- 📧 helielhislei@gmail.com
+- 📩 helielhislei@gmail.com
           
 <!--
 **heliel07/heliel07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
