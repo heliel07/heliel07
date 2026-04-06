@@ -1,6 +1,6 @@
 ![img_rede_neural](img/imgRedes_.png)
 
-# Olá, eu sou Heliel 👋😃
+# Olá! Eu sou o Heliel 😃
 
 Sou apaixonado por inovações que a tecnologia nos oferece! Busco a minha primeira oportunidade como **Engenheiro de Dados** para poder entrar no mercado, me desenvolver mais e contribuir com o time em que estiver!
 
