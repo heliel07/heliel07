@@ -2,48 +2,49 @@
 
 # Olá! Eu sou o Heliel 😃
 
-Sou apaixonado por inovações que a tecnologia nos oferece! Busco a minha primeira oportunidade como **Engenheiro de Dados** para poder entrar no mercado, me desenvolver mais e contribuir com o time em que estiver!
+Sou apaixonado por inovações tecnológicas e focado em soluções escaláveis de dados. Atualmente, busco aplicar meus conhecimentos para contribuir com projetos robustos e evoluir como profissional na área.
 
-- 💻 Formado em **Técnico** em Desenvolvimento de Sistemas no SENAI São Carlos;
-- 📚 Estudante do curso **Superior** Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul Virtual 4/4;
-- 📊 Experiência como **Estagiário** em Engenharia de Dados em Nuvem na Compass UOL;
-- 👨🏻‍💻 Certificado na nuvem **[AWS Cloud Practitioner (CLF-C02)](https://www.credly.com/badges/b8d5a2d2-56a9-4b2d-aca4-86319a2d348a/whatsapp)**;
+- 💻 Formado em **Técnico** em Desenvolvimento de Sistemas (SENAI São Carlos)
+- 📚 Graduando em **Análise e Desenvolvimento de Sistemas** (4/4)
+- 📊 Experiência em Engenharia de Dados em Nuvem (**Compass UOL**)
+- 👨🏻‍💻 Certificado **AWS Cloud Practitioner (CLF-C02)**
 
-## Tecnologias:
+---
 
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens e Manipulação de Dados
 <p align="left">
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> &nbsp;&nbsp;
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> &nbsp;&nbsp;
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" /> &nbsp;&nbsp;
-  <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" /> &nbsp;&nbsp;
-  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" /> &nbsp;&nbsp;
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> &nbsp;&nbsp;
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> &nbsp;&nbsp;
-  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/73b3d37e-f384-4910-872b-c3d9e8201400" /> &nbsp;&nbsp;
-  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c6d57f88-3f66-49b8-b16a-1a6fa1117cb2" /> &nbsp;&nbsp;
-  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5c0d7e34-f04b-47e5-be0a-811d5def6fcd" /> &nbsp;&nbsp;
-  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6c4d281b-1487-4fa7-9b9a-d28b61795843" /> &nbsp;&nbsp;
-  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2225f5c4-81d0-49bb-8ac2-6b8e541f75fa" /> &nbsp;&nbsp;
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" title="Pandas" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="65" title="Apache Spark" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" title="MySQL" />&nbsp;
 </p>
 
-## Meus contatos:
+### Cloud & Infraestrutura (AWS)
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/73b3d37e-f384-4910-872b-c3d9e8201400" width="45" title="AWS S3" />&nbsp;
+  <img src="https://github.com/user-attachments/assets/c6d57f88-3f66-49b8-b16a-1a6fa1117cb2" width="45" title="AWS Glue" />&nbsp;
+  <img src="https://github.com/user-attachments/assets/5c0d7e34-f04b-47e5-be0a-811d5def6fcd" width="45" title="AWS Lambda" />&nbsp;
+  <img src="https://github.com/user-attachments/assets/6c4d281b-1487-4fa7-9b9a-d28b61795843" width="45" title="AWS Athena" />&nbsp;
+  <img src="https://github.com/user-attachments/assets/2225f5c4-81d0-49bb-8ac2-6b8e541f75fa" width="45" title="AWS QuickSight" />&nbsp;
+</p>
 
-- <img width="17" height="17" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> [Heliel Hislei](https://www.linkedin.com/in/heliel-hislei/)
-- 📩 helielhislei@gmail.com
-          
-<!--
-**heliel07/heliel07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps & Versionamento
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="50" title="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" title="GitHub" />&nbsp;
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📫 Vamos nos conectar?
+
+<p align="left">
+<a href="https://www.linkedin.com/in/heliel-hislei/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:helielhislei@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>- ⚡ Fun fact: ...
 -->
