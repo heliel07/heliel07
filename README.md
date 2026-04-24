@@ -5,9 +5,9 @@
 Sou apaixonado por inovações tecnológicas e focado em soluções escaláveis de dados. Atualmente, busco aplicar meus conhecimentos para contribuir com projetos robustos e evoluir como profissional na área.
 
 - 💻 Formado em **Técnico** em Desenvolvimento de Sistemas (SENAI São Carlos)
-- 📚 Graduando em **Análise e Desenvolvimento de Sistemas** (4/4)
+- 📚 Graduando em **Análise e Desenvolvimento de Sistemas** (Universidade Cruzeiro do Sul Virtual - 4/4)
 - 📊 Experiência em Engenharia de Dados em Nuvem (**Compass UOL**)
-- 👨🏻‍💻 Certificado **AWS Cloud Practitioner (CLF-C02)**
+- 👨🏻‍💻 Certificado [**AWS Cloud Practitioner (CLF-C02)**](https://www.credly.com/earner/earned/badge/b8d5a2d2-56a9-4b2d-aca4-86319a2d348a)
 
 ---
 
