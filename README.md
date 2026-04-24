@@ -46,5 +46,3 @@ Sou apaixonado por inovações tecnológicas e focado em soluções escaláveis 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="mailto:helielhislei@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>- ⚡ Fun fact: ...
--->
